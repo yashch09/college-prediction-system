@@ -11,9 +11,9 @@
 	<link rel="stylesheet" type="text/css" href="Login.css">
 	<link rel = "icon" href = "jagran_logo1.jpg" type = "image/x-icon">
 	<link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/5.15.4/css/font-awesome.min.css">
 </head>
-<body><!--http://mrwallpapers.com/wp-content/uploads/2018/10/wall-leaves-wooden-background-images-hd.jpg-->
+<body><!--http://mrwallpapers.com/wp-content/uploads/2024/10/wall-leaves-wooden-background-images-hd.jpg-->
 <div>
 <div class="form" id="login">
 	<div class="box">
